@@ -1,15 +1,17 @@
 const express = require('express');
 const cors = require('cors');
 const routes = require('./routes');
+const { errors } = require('celebrate');
 
 const app = express();
 
 app.use(cors(/**Aqui dentro, dentro de {} colocamos qual origem em link http tem permissão para acessar o app */));
 app.use(express.json());
 app.use(routes);
+app.use(errors());
 
 
-app.listen(3333);
+module.exports = app;
 
 /**
  * Rotas(url ou link)/Recursos(tabelas dentro do BD)
