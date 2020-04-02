@@ -1,4 +1,4 @@
-# semana-omnistack
+# Be The Hero
 Web App desenvolvido durante semana de estudos Omnistack11
 Be The Hero é uma aplicação web e mobile para as ONGs de animais em situação de rua se cadastrarem e contarem um pouco dos seus casos que ainda não foram resolvidos junto com seus valores para conseguirem ajuda de heróis, pessoas que possam auxiliar esses pobres animais. Be The Hero foi construído utlizando:
 
