@@ -14,3 +14,8 @@ Be The Hero é uma aplicação web e mobile para as ONGs de animais em situaçã
 - supertest - biblioteca para testes HTTP node.js
 - ReactJS - framework.
 - React Native - utlização do Expo para criação da versão mobile
+
+
+ℹ️ <strong>Instruções: </strong>
+Para clonar e rodar essa aplicação você vai precisar do Git, Node.js v10.16 ou maior e Yarn v1.13 ou maior no seu computador.
+Comece clonando o repositório, entre na pasta da aplicação e rode o comando <yarn> para instalar todas as dependências.
